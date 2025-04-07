@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Thomas and I'm a thinker, a probleme solver, a developer (mainly with PHP, but I'd say the algorithm is what matters most :wink:) and a DevOps enthusiast.
+My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with PHP, but I'd say the algorithm is what matters most :wink:)_ and a DevOps enthusiast. I'm always learning.
 
 ## :briefcase: Main skills
 
