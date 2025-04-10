@@ -34,12 +34,19 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 ![Zabbix](https://img.shields.io/badge/-Zabbix-d40000?logo=Zabbix&style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/-Grafana-009485?logo=Grafana&logoColor=white&style=for-the-badge)
 
-
 ## :rocket: Latest open source contribution
+
+#### Pull requests
 
 - [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [doc: add information about building production image](https://github.com/dunglas/symfony-docker/pull/752)
 - [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [feat: add possibility to override APP_ENV](https://github.com/dunglas/symfony-docker/pull/739)
 - [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [feat: print message when docker-entrypoint finishes](https://github.com/dunglas/symfony-docker/pull/703)
+
+#### Issues
+
+- [[caddyserver/caddy]](https://github.com/caddyserver/caddy) - [Issue with tls_connection_policies.match.sni](https://github.com/caddyserver/caddy/issues/6946)
+- [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [Accessing HTTPS application behind HAProxy: no matching certificates / wrong identifier used](https://github.com/dunglas/symfony-docker/issues/779)
+- [[PHP/php-src]](https://github.com/php/php-src) - [possible bug with selecting individual columns vs select splat.](https://github.com/php/php-src/issues/18177)
 
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
