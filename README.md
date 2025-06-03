@@ -38,6 +38,7 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 #### Pull requests
 
+- [[symfony/symfony]](https://github.com/symfony/symfony) - [[Validator] Add tests for MacAddress](https://github.com/symfony/symfony/pull/60422)
 - [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [doc: add information about building production image](https://github.com/dunglas/symfony-docker/pull/752)
 - [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [feat: add possibility to override APP_ENV](https://github.com/dunglas/symfony-docker/pull/739)
 - [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [feat: print message when docker-entrypoint finishes](https://github.com/dunglas/symfony-docker/pull/703)
@@ -50,6 +51,7 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
+- [Installing kubeadm on Debian 12](https://tcoch.fr/installing-kubeadm-on-debian-12)
 - [Singleton : how to implement](https://tcoch.fr/singleton-how-to-implement)
 - [Docker compose & symfony : the scope of environment variables](https://tcoch.fr/docker-compose-symfony-the-scope-of-environment-variables)
 - [Kubernetes - Exposing a port on Minikube](https://tcoch.fr/kubernetes-exposing-a-port-on-minikube)
