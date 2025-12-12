@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :wave:
 
 My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with PHP, but I'd say the algorithm is what matters most :wink:)_ and a DevOps enthusiast. I'm always learning.
 
@@ -36,18 +36,28 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 ## :rocket: Latest open source contribution
 
-#### Pull requests
+#### Highlights
 
-- [[symfony/symfony]](https://github.com/symfony/symfony) - [[Validator] Add tests for MacAddress](https://github.com/symfony/symfony/pull/60422)
-- [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [doc: add information about building production image](https://github.com/dunglas/symfony-docker/pull/752)
-- [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [feat: add possibility to override APP_ENV](https://github.com/dunglas/symfony-docker/pull/739)
-- [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [feat: print message when docker-entrypoint finishes](https://github.com/dunglas/symfony-docker/pull/703)
+- :heavy_check_mark: [[symfony/symfony]](https://github.com/symfony/symfony/pull/60422) - [Validator] Add tests for MacAddress
+- :heavy_check_mark: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/752) - doc: add information about building production image
+- :heavy_check_mark: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/739) - feat: add possibility to override APP_ENV
+- :heavy_check_mark: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/703) - feat: print message when docker-entrypoint finishes
+- :bulb: [[caddyserver/caddy]](https://github.com/caddyserver/caddy/issues/6946) - Issue with tls_connection_policies.match.sni
+- :bulb: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/issues/779) - Accessing HTTPS application behind HAProxy: no matching certificates / wrong identifier used
+- :bulb: [[PHP/php-src]](https://github.com/php/php-src/issues/18177) - possible bug with selecting individual columns vs select splat.
 
-#### Issues
+#### Most recent contributions
 
-- [[caddyserver/caddy]](https://github.com/caddyserver/caddy) - [Issue with tls_connection_policies.match.sni](https://github.com/caddyserver/caddy/issues/6946)
-- [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker) - [Accessing HTTPS application behind HAProxy: no matching certificates / wrong identifier used](https://github.com/dunglas/symfony-docker/issues/779)
-- [[PHP/php-src]](https://github.com/php/php-src) - [possible bug with selecting individual columns vs select splat.](https://github.com/php/php-src/issues/18177)
+- :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21636) - [DependencyInjection] Add example for `#[Exclude]` attribute
+- :heavy_check_mark: [[twigphp/Twig]](https://github.com/twigphp/Twig/pull/4711) - `CoreExtension` : Make error message more readable
+- :x: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/842) - feat: add documentation on how to run tests
+- :bulb: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/issues/836) - Testing projects / associated config ?
+- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21331) -  Add documentation for extending `IsGranted` attribute
+- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21207) - Add tip about default value
+- :heavy_check_mark: [[symfony/symfony]](https://github.com/symfony/symfony/pull/61094) - [Routing] Add test to validate that default value is allowed to not match requirement
+- :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/61022) - [Routing] Issue with requirement / default value for parameters
+- :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/60963) - [Routing] Issue with default value in host parameter
+- :heavy_check_mark: [[symfony/symfony]](https://github.com/symfony/symfony/pull/60422) - [Validator] Add tests for `MacAddress`
 
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
