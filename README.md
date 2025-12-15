@@ -48,6 +48,17 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 #### Most recent contributions
 
+- :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21636) - [DependencyInjection] Add example for `#[Exclude]` attribute
+- :heavy_check_mark: [[twigphp/Twig]](https://github.com/twigphp/Twig/pull/4711) - `CoreExtension` : Make error message more readable
+- :x: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/842) - feat: add documentation on how to run tests
+- :bulb: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/issues/836) - Testing projects / associated config ?
+- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21331) -  Add documentation for extending `IsGranted` attribute
+- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21207) - Add tip about default value
+- :heavy_check_mark: [[symfony/symfony]](https://github.com/symfony/symfony/pull/61094) - [Routing] Add test to validate that default value is allowed to not match requirement
+- :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/61022) - [Routing] Issue with requirement / default value for parameters
+- :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/60963) - [Routing] Issue with default value in host parameter
+- :heavy_check_mark: [[symfony/symfony]](https://github.com/symfony/symfony/pull/60422) - [Validator] Add tests for `MacAddress`
+
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
 - [Installing kubeadm on Debian 12](https://tcoch.fr/installing-kubeadm-on-debian-12)
