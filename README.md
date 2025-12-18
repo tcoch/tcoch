@@ -48,6 +48,7 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 #### Most recent contributions
 
+- :x: [[php-runtime/frankenphp-symfony]](https://github.com/php-runtime/frankenphp-symfony/pull/9) - Update Symfony package versions to include 8.0
 - :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21636) - [DependencyInjection] Add example for `#[Exclude]` attribute
 - :heavy_check_mark: [[twigphp/Twig]](https://github.com/twigphp/Twig/pull/4711) - `CoreExtension` : Make error message more readable
 - :x: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/842) - feat: add documentation on how to run tests
@@ -57,7 +58,6 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 - :heavy_check_mark: [[symfony/symfony]](https://github.com/symfony/symfony/pull/61094) - [Routing] Add test to validate that default value is allowed to not match requirement
 - :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/61022) - [Routing] Issue with requirement / default value for parameters
 - :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/60963) - [Routing] Issue with default value in host parameter
-- :heavy_check_mark: [[symfony/symfony]](https://github.com/symfony/symfony/pull/60422) - [Validator] Add tests for `MacAddress`
 
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
