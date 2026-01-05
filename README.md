@@ -48,7 +48,7 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 #### Most recent contributions
 
-- :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21654) - [Cache] Split cache examples (as it's not repeatable)
+- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21654) - [HttpKernel] Split cache examples (as it's not repeatable)
 - :x: [[php-runtime/frankenphp-symfony]](https://github.com/php-runtime/frankenphp-symfony/pull/9) - Update Symfony package versions to include 8.0
 - :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21636) - [DependencyInjection] Add example for `#[Exclude]` attribute
 - :heavy_check_mark: [[twigphp/Twig]](https://github.com/twigphp/Twig/pull/4711) - `CoreExtension` : Make error message more readable
