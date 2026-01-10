@@ -48,6 +48,7 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 #### Most recent contributions
 
+- :x: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1773) - [make:test] Remove trailing slash in assertResponseRedirects tests
 - :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21654) - [HttpKernel] Split cache examples (as it's not repeatable)
 - :x: [[php-runtime/frankenphp-symfony]](https://github.com/php-runtime/frankenphp-symfony/pull/9) - Update Symfony package versions to include 8.0
 - :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21636) - [DependencyInjection] Add example for `#[Exclude]` attribute
@@ -57,7 +58,6 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 - :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21331) -  Add documentation for extending `IsGranted` attribute
 - :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21207) - Add tip about default value
 - :heavy_check_mark: [[symfony/symfony]](https://github.com/symfony/symfony/pull/61094) - [Routing] Add test to validate that default value is allowed to not match requirement
-- :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/61022) - [Routing] Issue with requirement / default value for parameters
 
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
