@@ -52,7 +52,7 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 - :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1773) - [make:test] Remove trailing slash in assertResponseRedirects tests
 - :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21654) - [HttpKernel] Split cache examples (as it's not repeatable)
 - :x: [[php-runtime/frankenphp-symfony]](https://github.com/php-runtime/frankenphp-symfony/pull/9) - Update Symfony package versions to include 8.0
-- :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21636) - [DependencyInjection] Add example for `#[Exclude]` attribute
+- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21636) - [DependencyInjection] Add example for `#[Exclude]` attribute
 - :heavy_check_mark: [[twigphp/Twig]](https://github.com/twigphp/Twig/pull/4711) - `CoreExtension` : Make error message more readable
 - :x: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/842) - feat: add documentation on how to run tests
 - :bulb: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/issues/836) - Testing projects / associated config ?
