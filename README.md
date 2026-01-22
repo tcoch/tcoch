@@ -48,6 +48,7 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 #### Most recent contributions
 
+- :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21747) -  Allow environment variables with dot in them
 - :bulb: [[symfony/ux.symfony.com]](https://github.com/symfony/ux.symfony.com/issues/5) - [Live Component] Website demo is broken
 - :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21738) - [HttpKernel] Deprecate the `Extension` class
 - :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1775) - [make:crud] Use CamelCase for getter and setter
@@ -57,7 +58,6 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 - :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21636) - [DependencyInjection] Add example for `#[Exclude]` attribute
 - :heavy_check_mark: [[twigphp/Twig]](https://github.com/twigphp/Twig/pull/4711) - `CoreExtension` : Make error message more readable
 - :x: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/842) - feat: add documentation on how to run tests
-- :bulb: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/issues/836) - Testing projects / associated config ?
 
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
