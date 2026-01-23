@@ -48,7 +48,7 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 #### Most recent contributions
 
-- :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21747) -  Allow environment variables with dot in them
+- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21747) - [Config] Allow environment variables with dot in them
 - :bulb: [[symfony/ux.symfony.com]](https://github.com/symfony/ux.symfony.com/issues/5) - [Live Component] Website demo is broken
 - :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21738) - [HttpKernel] Deprecate the `Extension` class
 - :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1775) - [make:crud] Use CamelCase for getter and setter
