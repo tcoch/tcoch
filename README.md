@@ -48,6 +48,7 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 #### Most recent contributions
 
+- :x: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1785) - [make:entity] Autocompletion for enum classes
 - :x: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1784) - [make:entity] Specify more types categories
 - :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1783) - Specify EntityRepository type in generated tests
 - :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21865) - [Secrets] Add a section to give the best pratices for accessing secrets in a service
@@ -57,7 +58,6 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 - :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1775) - [make:crud] Use CamelCase for getter and setter
 - :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1773) - [make:test] Remove trailing slash in assertResponseRedirects tests
 - :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21654) - [HttpKernel] Split cache examples (as it's not repeatable)
-- :x: [[php-runtime/frankenphp-symfony]](https://github.com/php-runtime/frankenphp-symfony/pull/9) - Update Symfony package versions to include 8.0
 
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
