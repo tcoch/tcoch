@@ -48,6 +48,7 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 #### Most recent contributions
 
+- :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/63654) - [DependencyInjection] EnvPlaceholderParameterBag - Digits not allowed
 - :bulb: [[FabienPapet/helm-frankenphp]](https://github.com/FabienPapet/helm-frankenphp/issues/2) - About the use of secrets
 - :x: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1785) - [make:entity] Autocompletion for enum classes
 - :x: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1784) - [make:entity] Specify more types categories
@@ -57,7 +58,6 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 - :bulb: [[symfony/ux.symfony.com]](https://github.com/symfony/ux.symfony.com/issues/5) - [Live Component] Website demo is broken
 - :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21738) - [HttpKernel] Deprecate the `Extension` class
 - :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1775) - [make:crud] Use CamelCase for getter and setter
-- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1773) - [make:test] Remove trailing slash in assertResponseRedirects tests
 
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
