@@ -34,20 +34,10 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 ![Zabbix](https://img.shields.io/badge/-Zabbix-d40000?logo=Zabbix&style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/-Grafana-009485?logo=Grafana&logoColor=white&style=for-the-badge)
 
-## :rocket: Latest open source contribution
-
-#### Highlights
-
-- :heavy_check_mark: [[symfony/symfony]](https://github.com/symfony/symfony/pull/60422) - [Validator] Add tests for MacAddress
-- :heavy_check_mark: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/752) - doc: add information about building production image
-- :heavy_check_mark: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/739) - feat: add possibility to override APP_ENV
-- :heavy_check_mark: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/pull/703) - feat: print message when docker-entrypoint finishes
-- :bulb: [[caddyserver/caddy]](https://github.com/caddyserver/caddy/issues/6946) - Issue with tls_connection_policies.match.sni
-- :bulb: [[dunglas/symfony-docker]](https://github.com/dunglas/symfony-docker/issues/779) - Accessing HTTPS application behind HAProxy: no matching certificates / wrong identifier used
-- :bulb: [[PHP/php-src]](https://github.com/php/php-src/issues/18177) - possible bug with selecting individual columns vs select splat.
-
 #### Most recent contributions
 
+- :x: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1791) - `EnumHelper.php` : Fix Windows behaviour
+- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1790) - Update Yaml indentation in tests after symfony/symfony#62967
 - :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/63654) - [DependencyInjection] EnvPlaceholderParameterBag - Digits not allowed
 - :bulb: [[FabienPapet/helm-frankenphp]](https://github.com/FabienPapet/helm-frankenphp/issues/2) - About the use of secrets
 - :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1785) - [make:entity] Autocompletion for enum classes
@@ -58,6 +48,9 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 - :bulb: [[symfony/ux.symfony.com]](https://github.com/symfony/ux.symfony.com/issues/5) - [Live Component] Website demo is broken
 - :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21738) - [HttpKernel] Deprecate the `Extension` class
 - :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1775) - [make:crud] Use CamelCase for getter and setter
+- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1773) - [make:test] Remove trailing slash in assertResponseRedirects tests
+- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21654) - [HttpKernel] Split cache examples (as it's not repeatable)
+- :x: [[php-runtime/frankenphp-symfony]](https://github.com/php-runtime/frankenphp-symfony/pull/9) - Update Symfony package versions to include 8.0
 
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
