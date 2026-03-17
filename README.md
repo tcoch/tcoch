@@ -34,9 +34,9 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 ![Zabbix](https://img.shields.io/badge/-Zabbix-d40000?logo=Zabbix&style=for-the-badge)
 ![Grafana](https://img.shields.io/badge/-Grafana-009485?logo=Grafana&logoColor=white&style=for-the-badge)
 
-#### Most recent contributions
+## :rocket: Most recent contributions
 
-- :x: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1791) - `EnumHelper.php` : Fix Windows behaviour
+- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1791) - `EnumHelper.php` : Fix Windows behaviour
 - :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1790) - Update Yaml indentation in tests after symfony/symfony#62967
 - :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/63654) - [DependencyInjection] EnvPlaceholderParameterBag - Digits not allowed
 - :bulb: [[FabienPapet/helm-frankenphp]](https://github.com/FabienPapet/helm-frankenphp/issues/2) - About the use of secrets
