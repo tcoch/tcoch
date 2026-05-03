@@ -36,21 +36,6 @@ My name is Thomas. I'm a thinker, a problem solver, also developer _(mainly with
 
 ## :rocket: Most recent contributions
 
-- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/22248) - [Webhook] Fix usage of .php extension instead of .xml
-- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1791) - `EnumHelper.php` : Fix Windows behaviour
-- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1790) - Update Yaml indentation in tests after symfony/symfony#62967
-- :bulb: [[symfony/symfony]](https://github.com/symfony/symfony/issues/63654) - [DependencyInjection] EnvPlaceholderParameterBag - Digits not allowed
-- :bulb: [[FabienPapet/helm-frankenphp]](https://github.com/FabienPapet/helm-frankenphp/issues/2) - About the use of secrets
-- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1785) - [make:entity] Autocompletion for enum classes
-- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1784) - [make:entity] Specify more types categories
-- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1783) - Specify EntityRepository type in generated tests
-- :x: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21865) - [Secrets] Add a section to give the best pratices for accessing secrets in a service
-- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21747) - [Config] Allow environment variables with dot in them
-- :bulb: [[symfony/ux.symfony.com]](https://github.com/symfony/ux.symfony.com/issues/5) - [Live Component] Website demo is broken
-- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21738) - [HttpKernel] Deprecate the `Extension` class
-- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1775) - [make:crud] Use CamelCase for getter and setter
-- :heavy_check_mark: [[symfony/maker-bundle]](https://github.com/symfony/maker-bundle/pull/1773) - [make:test] Remove trailing slash in assertResponseRedirects tests
-- :heavy_check_mark: [[symfony/symfony-docs]](https://github.com/symfony/symfony-docs/pull/21654) - [HttpKernel] Split cache examples (as it's not repeatable)
 
 ## :globe_with_meridians: Recent [blog posts](https://tcoch.fr)
 
